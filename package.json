@@ -1,0 +1,24 @@
+{
+  "name": "existing-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedabdulkarim/existing-user.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayedabdulkarim/existing-user/issues"
+  },
+  "homepage": "https://github.com/sayedabdulkarim/existing",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
